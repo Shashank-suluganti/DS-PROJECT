@@ -10,3 +10,4 @@ GoRide is a C++-based ride-hailing simulation system that connects riders with n
 ->Driver stats and availability
 ->ASCII city map visualization
 ->Rider feedback & rating system
+
